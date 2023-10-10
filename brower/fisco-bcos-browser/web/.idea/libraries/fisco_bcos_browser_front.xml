@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fisco-bcos-browser-front">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fisco-bcos-browser-front.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
